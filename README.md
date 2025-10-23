@@ -1,0 +1,2 @@
+# physics_experiment_useful_functions
+为了应付大物实验的各种平均值，不确定度的计算，一个个的弄都要折磨疯了，索性直接写了个库函数来计算
